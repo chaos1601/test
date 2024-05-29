@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chaos1601/test/static/css/main.7cf3c00c.css",
+    "main.js": "/chaos1601/test/static/js/main.93264e73.js",
+    "index.html": "/chaos1601/test/index.html",
+    "main.7cf3c00c.css.map": "/chaos1601/test/static/css/main.7cf3c00c.css.map",
+    "main.93264e73.js.map": "/chaos1601/test/static/js/main.93264e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf3c00c.css",
+    "static/js/main.93264e73.js"
+  ]
+}
